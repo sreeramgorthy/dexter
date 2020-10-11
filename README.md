@@ -1,2 +1,1 @@
-# dexter
-hello
+Sample repository
