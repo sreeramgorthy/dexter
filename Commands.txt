@@ -1,0 +1,21 @@
+Directories chaning commands:
+$cd /c
+$cd git/
+$cd ..
+
+View data in directory:
+$ls
+$git status
+$git log
+
+Setting up with github credentials:
+$git config --global user.name "sreeramgorthy"
+$git config --global user.email gorthysreeram@gmail.com
+
+Add remote repository data to local repository:
+$git clone link
+
+
+Push:
+$ git push -u origin master
+
