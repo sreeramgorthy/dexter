@@ -19,3 +19,6 @@ $git clone link
 Push:
 $ git push -u origin master
 
+Add and commit:
+$ git add Commands.txt
+$ git commit -m "first commit" Commands.txt
